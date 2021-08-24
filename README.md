@@ -1,6 +1,7 @@
 # node-bookshelfjs-examples
 
 Examples of how using bookshelfjs to build REST api framework. 
+https://github.com/bluegitter/node-bookshelfjs-examples
 
 # Requirements
 
